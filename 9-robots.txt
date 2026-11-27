@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mostafa3srawy-cyber.github.io/rokn-fatma/sitemap.xml
